@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/mayank.patekar/static/css/main.e71ae177.css",
+    "main.js": "/mayank.patekar/static/js/main.8c9ba789.js",
+    "static/js/787.c64a46ba.chunk.js": "/mayank.patekar/static/js/787.c64a46ba.chunk.js",
+    "static/media/hero-image.jpg": "/mayank.patekar/static/media/hero-image.04ed52252f76e28d0d73.jpg",
+    "static/media/classicyou.png": "/mayank.patekar/static/media/classicyou.019c0b68cafcb29ce839.png",
+    "index.html": "/mayank.patekar/index.html",
+    "main.e71ae177.css.map": "/mayank.patekar/static/css/main.e71ae177.css.map",
+    "main.8c9ba789.js.map": "/mayank.patekar/static/js/main.8c9ba789.js.map",
+    "787.c64a46ba.chunk.js.map": "/mayank.patekar/static/js/787.c64a46ba.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e71ae177.css",
+    "static/js/main.8c9ba789.js"
+  ]
+}
