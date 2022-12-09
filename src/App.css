@@ -1,5 +1,6 @@
 .App {
   text-align: center;
+  height: 100vh;
 }
 
 .App-logo {
@@ -35,4 +36,149 @@
   to {
     transform: rotate(360deg);
   }
+}
+.main-content{
+  height: 100vh;
+  padding: 20px;
+  background-color: rgb(17, 17, 17);
+  
+color: beige;
+}
+
+h1{
+  color : yellow;
+}
+
+.nav-list{
+  list-style: none;
+  flex: auto;
+  display: flex;
+  text-decoration: none;
+  font-size: larger;
+  margin: 0;
+  padding: 20px 10px 20px 10px;
+  align-content: center;
+  justify-content: space-between;
+  background-color: black;
+}
+li > *{
+  text-decoration: none;
+  margin-right: 20px;
+  color: white;
+  text-decoration: none;
+  font-size: 20px;
+}
+
+
+/* home style */
+
+.home-container{
+  
+  
+text-align: left;
+/* display: inline-block; */
+line-height: 20px;
+}
+.home-text{
+  color: beige;
+  margin-bottom: 30px;
+}
+.home-hi{
+
+font-size: 30px;
+}
+
+.home-my{
+font-size: 30px;
+display: inline-block;
+margin-right: 10px;
+}
+
+.home-text > h1{
+  color: yellow;
+  display: inline-block;
+  font-size: 30px;
+  
+}
+
+.home-p{
+}
+
+.home-img{
+  width: -webkit-fill-available;
+    border-radius: 12px;
+}
+
+
+
+/* education */
+
+.card{
+  background-color: beige;
+  color: black;
+  margin-bottom: 10px;
+  border-radius: 10px;
+  font-size: 20px;
+}
+
+.card-header{
+background-color: black;
+border: 1px solid white;
+color: white;
+border-radius: 10px 10px 0 0;
+padding: 10px 0 10px 0;
+}
+
+.listg-items{
+  /* border: 1px solid black; */
+  padding: 10px 0 10px 0;
+  border-bottom: 1px solid black;
+}
+
+
+/* skills page */
+
+.skill-container{
+  /* display: inline-block; */
+  text-align: left;
+}
+
+.skill-name{
+  /* text-align: left; */
+  margin: 8px;
+  font-size: 20px;
+}
+
+
+
+/* project page */
+
+/* .project-card{
+} */
+
+.project-img{
+width:100%;
+}
+.project-body{
+text-align : left;
+}
+
+.project-title{
+padding: 10px 0 10px 10px;
+font-weight: 900;
+font-size: larger;
+
+}
+.project-text{
+  padding: 10px 0 10px 10px;
+}
+
+
+
+.active-tab > *{
+  color: black;
+  background-color: yellow;
+  text-align: center;
+  padding: 10px;
+  border-radius: 12px;
 }

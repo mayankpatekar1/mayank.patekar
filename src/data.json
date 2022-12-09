@@ -1,0 +1,23 @@
+[
+    {
+        "id":1,
+        "couser": "Degree - B.Sc - IT",
+        "institute":"Smt. Chandhibai Himathmal Mansukani College , Ulhasnagar(West)",
+        "year": "2020 - 2023",
+        "percentage": "Studing in last year..."
+    },
+    {
+        "id":2,
+        "couser": "H.S.C",
+        "institute":"Smt. Chandhibai Himathmal Mansukani College , Ulhasnagar(West)",
+        "year": "2019 - 2020",
+        "percentage": "62.31 %"
+    },
+    {
+        "id":3,
+        "couser": "S.S.C",
+        "institute":"Adarsha Vidya Mandir , Badlapur ( East )",
+        "year": "2017 - 2018",
+        "percentage": "85.20 %"
+    }
+]
